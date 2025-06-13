@@ -8,5 +8,6 @@
     },
     "services": {
         "vercel": "vc-domain-verify=syntax-xxx.is-a.dev,b3c1d45f0509215b9f23"
-    }
+    },
+    "NS": ["meiling.ns.cloudflare.com", "rustam.ns.cloudflare.com"]
 }
